@@ -80,7 +80,7 @@ img, video, audio {
 /*   LAYOUT   */
 
 .wrapper {
-  width: 960px;
+  width: 1080px;
   margin: 0 auto;
   background-color: #eee;
 }
@@ -117,5 +117,3 @@ img, video, audio {
   height: 0;
   line-height: 0;
 }
-
-
