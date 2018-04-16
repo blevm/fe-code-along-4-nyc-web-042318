@@ -134,8 +134,10 @@ section {
 
 #social {
   position: fixed;
-  top: 200;
-  right: 0;
+  top: 200px;
+  right: 20px;
+  width: 40px;
+  z-index: 1;
 }
 
 div#social a {
