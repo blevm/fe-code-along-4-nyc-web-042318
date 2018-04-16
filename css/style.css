@@ -140,6 +140,6 @@ section {
   z-index: 1;
 }
 
-div#social a {
+#social a {
   display: block;
 }
