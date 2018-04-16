@@ -136,5 +136,8 @@ section {
   position: fixed;
   top: 0;
   right: 0;
+}
+
+div#social a {
   display: block;
 }
